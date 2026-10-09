@@ -1,4 +1,7 @@
 node_modules/
+work/
+test-results/
+.playwright/
 .DS_Store
 Thumbs.db
 *.log

@@ -1,0 +1,15 @@
+{
+  "name": "zhibian-productivity-museum",
+  "version": "2.0.0",
+  "private": true,
+  "description": "智变 · 未来生产力展馆；静态网站，无构建即可离线浏览。",
+  "scripts": {
+    "build:vendor": "esbuild vendor/three.entry.js --bundle --minify --format=iife --outfile=vendor/three.bundle.js --legal-comments=external"
+  },
+  "dependencies": {
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2"
+  }
+}

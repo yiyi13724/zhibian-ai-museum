@@ -9,7 +9,7 @@
 - 网站：[智变 · 未来生产力展馆](https://yiyi13724.github.io/zhibian-ai-museum/)
 - GitHub 仓库：[yiyi13724/zhibian-ai-museum](https://github.com/yiyi13724/zhibian-ai-museum)
 
-发布配置日期：2026 年 10 月 9 日。GitHub Pages 从 `main` 分支根目录部署；更新并推送网站源代码后，GitHub 会重新发布。数据仍保留 2026 年 10 月 7 日的固定核验快照，不因部署自动更新。
+发布日期：2026 年 10 月 9 日。GitHub Pages 从 `main` 分支根目录部署；更新并推送网站源代码后，GitHub 会重新发布。数据仍保留 2026 年 10 月 7 日的固定核验快照，不因部署自动更新。
 
 ## 本地打开
 
